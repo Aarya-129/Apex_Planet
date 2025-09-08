@@ -24,18 +24,18 @@ class TaskManager {
                 name: "Complete project proposal",
                 category: "work",
                 priority: "high",
-                deadline: "2025-08-22",
+                deadline: "2025-09-22",
                 completed: false,
-                createdAt: "2025-08-19"
+                createdAt: "2025-09-19"
             },
             {
                 id: 2,
                 name: "Buy groceries for dinner",
                 category: "shopping",
                 priority: "medium",
-                deadline: "2025-08-20",
+                deadline: "2025-09-20",
                 completed: false,
-                createdAt: "2025-08-19"
+                createdAt: "2025-09-19"
             }
         ];
 
