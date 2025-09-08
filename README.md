@@ -9,7 +9,7 @@ Welcome to the Apex Planet web development internship repository. This project g
 <li>Learn responsive design, accessibility, and performance basics.</li>
 <li>Deliver a deployable final project with clean documentation.</li>
 </ul>
-<h2>Roadmap (Days)</h2>
+<h2>Roadm</h2>
 <b>Task 1: </b>Basics – HTML semantics, CSS fundamentals, basic JavaScript.<br>
 <b>Task 2: </b>Intermediate – Flexbox/Grid, DOM manipulation, interactivity.<br>
 <b>Task 3: </b>Advanced – Animations, CSS tricks, modern JS features.<br>
